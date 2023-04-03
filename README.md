@@ -1,2 +1,2 @@
 # HAX-Ankur
-Project chool 2.0
+Project school 2.0
