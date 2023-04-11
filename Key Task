@@ -1,0 +1,1 @@
+grep file.txt '[A-Za-z0-9]'
